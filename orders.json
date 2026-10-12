@@ -1,0 +1,47 @@
+{
+  "RL481528024439": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Rosenweg 14, 88457 Kirchdorf an der Iller, Germany",
+    "receiver": "Pablo Vicente Gonzalez Rolon, Sainvi Residential Complex – Europark, Block 1, 3rd Floor, Apt. A, 03570 Villajoyosa, Alicante, Spain",
+    "price": "7.000 €",
+    "description": "Manufacturer: Kawasaki<br>Model: Z1000 Black Edition<br>Chassis number: JKAZRT00DEA027571<br>First registration: 04/2012<br>Mileage according to previous owner: 14.441 km<br>Power: 102 kW (139 PS)<br>Engine capacity: 1.043 cm³<br>Color: Black<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included.<br>Including: original parts, handlebar, exhaust, mirrors, and license plate holder.",
+    "address": "Pablo Vicente Gonzalez Rolon<br>Sainvi Residential Complex – Europark, Block 1, 3rd Floor, Apt. A<br>03570 Villajoyosa, Alicante<br>Spain<br>Telefon: +34 639024234",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "12.10.2026",
+    "deliveryDate": "16.10.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Partida Paraíso, 44, 80",
+      "postal_code": "03570",
+      "city": "La Vila Joiosa, Alicante",
+      "country": "Spain",
+      "lat": "38.49942419940575",
+      "lng": "-0.25825390325217956"
+    }
+  }
+}
